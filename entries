@@ -1,0 +1,5 @@
+Glass breaking	wavenet	https://storage.googleapis.com/wavenet-157404-ml/glassbreak/corpus.tar.gz	2	2
+10000	https://storage.googleapis.com/wavenet-157404-ml/glassbreak/checkpoints/model.ckpt-9999.tar.gz	glassbreak-10000-23.wav	glassbreak-10000-10.wav	glassbreak-10000-17.wav	glassbreak-10000-13.wav	glassbreak-10000-15.wav
+20000	https://storage.googleapis.com/wavenet-157404-ml/glassbreak/checkpoints/model.ckpt-19999.tar.gz	glassbreak-20000-00.wav
+All 10000 results: glassbreak-10000-gen.tar.gz
+All 20000 results: glassbreak-20000-gen.tar.gz

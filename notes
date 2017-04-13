@@ -1,0 +1,5 @@
+base: model, network type (has to be supported for generating), tags, name
+extra: parameters, description, training urls, examples, versions of model (with own examples)
+
+goal: search tag, hear examples, use or generate
+first: ctrl-f category, hear examples
