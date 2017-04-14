@@ -23,7 +23,7 @@ $(while test $((versions--)) -gt 0; do
 				<a href="$url">$(esc "$vname")</a>
 			</h3>
 $(test "$dataurl" && cat <<EOFdata
-			<br><a href="$dataurl">Training data</a>
+			<a href="$dataurl">Training data</a>
 EOFdata
 )
 $(printf '%s\n' "$examples" | tr '	' '\n' | while read -r example; do
